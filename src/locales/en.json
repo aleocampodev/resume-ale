@@ -1,0 +1,21 @@
+{
+	
+	"jobTitle": "Frontend Developer",
+	"profesion": "Biomedical Engineering",
+	"courses": "Courses",
+	"workExperience": "Work Experience",
+	"education": "Education",
+	"skills": "Skills",
+	"languages": "Languages",
+    "english": "English",
+	"spanish": "Spanish",
+	"resume": "I am biomedical engineer, due to life circumstances, especially a health condition, it was difficult for me  to pursue my profession. However, this did not stop me from continuing with my goals of learning. I have always had a passion for technology and innovation , so I chose the world and innovation, so I  chose the world of web development With over two and a half years of experience as a frontend developer, I am passionate about creating a user experiences through attractive web design and robust functionality. My focus on optimization and meticulous attention to detail ensures that every project meets the highest standards. I am dedicated to effectively solving problems and collaborating as a team to achieve outstanding results. I constantly seek to expand my skills and stay up-to-date with the latest technological trends in the world of frontend development.",
+	"achievements": "Achievements",
+	"newfeatures": "Implement new features that drive innovation and value for the company.",
+	"newStyles": "Enhance and add new styles as needed for the design of the applications.",
+	"technologies": "The technologies I used were React, NextJs, jest(testing), Bootstrap.",
+	"customWeb": "I develop custom web applications tailored to the clients needs, leveraging cutting-edge technologies to provide effective solutions.",
+	"skillsJob": "My skill set includes the use of technologies such as Gatsby, and React to build modern, responsive web applications that meet client expectations and deliver an exceptional user experience.",
+	"layoutWeb": "I had a strong command of web page layout using the Vue.js framework, making improvements to any front-end element, based on atomic component-based development. This approach was adaptable for mobile device loading.",
+	"technologiesUses":"The technologies I used were Vue and Nuxtjs"
+}

@@ -1,0 +1,65 @@
+
+.headLine {
+  width: 0.225693rem;
+  top: 0px;
+  left: 1rem;
+  height: 11.9617rem;
+  background-color: #7F669D;
+}
+
+.header {
+  padding-top: 17.8297rem;
+  padding-bottom: 10rem;
+  direction: ltr;
+  margin-bottom: 3rem;
+  height:100vh;
+}
+
+.firstName {
+  font-weight: lighter;
+  text-transform: uppercase;
+  word-break: break-all;
+  color: #7F669D;
+  font-size: 6.65793rem;
+  line-height: 1.68;
+  letter-spacing: 3.89546rem;
+  margin-bottom: 1.12846rem;
+  direction: ltr;
+}
+
+.lastName {
+  font-weight: bold;
+  font-size: 9.02771rem;
+  text-transform: uppercase;
+  word-break: break-all;
+  padding-right: 5.64232rem;
+  color: #7F669D;
+  line-height: 1.09;
+  letter-spacing: 4.15952rem;
+  direction: ltr;
+}
+
+
+.jobTitle {
+  padding-right: 0px;
+  margin-top: 4.51385rem;
+  color: #7F669D;
+  
+  span {
+    padding-left: 1rem;
+    letter-spacing: 0.710932rem;
+    text-transform: uppercase;
+    word-break: break-all;
+    direction: ltr;
+    color: #7F669D;
+    font-size: 3.04685rem;
+  }
+}
+
+
+.photo {
+  width: 27.2rem;
+  height: 27.2rem;
+  max-height: 270px;
+  object-fit: contain;
+}
